@@ -5,8 +5,8 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on my **personal website**
-- 🌱 Learning and experimenting with new technologies
+- 🔭 Currently building my **personal website**
+- 🌱 Learning and experimenting with new technologies  
 - 💡 Interested in creative coding projects
 - 📫 How to reach me: **moosec06@gmail.com**
 - ⚡ Fun fact: I'm here to learn and create cool stuff!
@@ -33,24 +33,25 @@
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Currently Working On
 
-<div align="center">
-  
-  ![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkMoose06&show_icons=true&theme=radical)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarkMoose06&theme=radical)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkMoose06&layout=compact&theme=radical)
+- **Personal portfolio website** - Showcasing my projects and skills
+- **Learning new frameworks** and technologies
+- **Building cool side projects** to expand my knowledge
 
-</div>
+---
+
+## 🎯 Philosophy
+
+> **"Idk what I'm doing here" - but that's the fun part!**  
+> Every expert was once a beginner. I'm embracing the journey of learning and growing as a developer.
 
 ---
 
 <div align="center">
   
-  ### 🎯 "Idk what I'm doing here" - but that's the fun part!
+  ### 📫 Let's Connect!
   
-  ⭐ **Feel free to explore my repositories** ⭐
+  Feel free to explore my repositories and reach out if you want to collaborate! ⭐
 
 </div>
