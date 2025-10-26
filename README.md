@@ -87,31 +87,3 @@
       except Exception:
           drink_white_monster()
           google()
-<p align="left">
-  <strong>Googling Errors:</strong> ██████████ 100% <br>
-  <strong>Writing Code:</strong> ███████░░░ 70% <br>
-  <strong>Understanding Code:</strong> ████░░░░░░ 40% <br>
-  <strong>CSS Alignment:</strong> ░░░░░░░░░░ 0% <br>
-</p>
-
-<h3 align="left">🤓 Random Dev Fact</h3>
-<p align="left">
-  <em>Did you know? The first computer bug was an actual moth! 
-  Now we create digital ones instead. 🐛→🐞</em>
-</p>
-
----
-
-<div align="center">
-  
-  ### 💻 **Current Status:** 
-  `git commit -m "Still figuring things out"`
-  
-  ### 🎨 **Creative Process:**
-  ```python
-  while True:
-      try:
-          code()
-      except Exception:
-          drink_white_monster()
-          google()
