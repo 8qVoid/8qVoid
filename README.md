@@ -23,8 +23,6 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
-  <a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40"/> </a> 
-  <a href="https://www.deepseek.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/125704986" alt="deepseek" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">🎧 Currently:</h3>
@@ -42,35 +40,12 @@
   • <strong>Hello World:</strong> Perfected this one! ✅ <br>
 </p>
 
-<h3 align="left">🤖 AI Assistants I Use:</h3>
-<p align="left">
-  • <strong>ChatGPT:</strong> My digital rubber duck for debugging <br>
-  • <strong>DeepSeek:</strong> The coding buddy that never sleeps <br>
-  • <strong>Both:</strong> For when my brain needs extra processing power <br>
-</p>
-
 <h3 align="left">📊 Development Analytics</h3>
 <p align="left">
   <strong>Code Quality:</strong> "It works on my machine" ✅ <br>
   <strong>Bug Count:</strong> Yes <br>
   <strong>White Monster Consumed:</strong> ∞ <br>
   <strong>Ducks Debugged:</strong> 🦆🦆🦆 <br>
-</p>
-
-<h3 align="left">🚨 Error Log</h3>
-<p align="left">
-  <code>ERROR: Brain.Not.Found</code><br>
-  <code>WARNING: Creativity levels overload</code><br>
-  <code>INFO: White Monster supply replenished</code><br>
-  <code>DEBUG: Why is this not working?</code><br>
-</p>
-
-<h3 align="left">🎯 Career Goals</h3>
-<p align="left">
-  • Become a 10x developer (currently at 0.5x) <br>
-  • Finally understand monads <br>
-  • Write code without Stack Overflow (impossible) <br>
-  • Center a div without crying <br>
 </p>
 
 <h3 align="left">🎮 Developer Console</h3>
@@ -84,6 +59,34 @@
 </p>
 
 <h3 align="left">📈 Skill Level: Professional Amateur</h3>
+<p align="left">
+  <strong>Googling Errors:</strong> ██████████ 100% <br>
+  <strong>Writing Code:</strong> ███████░░░ 70% <br>
+  <strong>Understanding Code:</strong> ████░░░░░░ 40% <br>
+  <strong>CSS Alignment:</strong> ░░░░░░░░░░ 0% <br>
+</p>
+
+<h3 align="left">🤓 Random Dev Fact</h3>
+<p align="left">
+  <em>Did you know? The first computer bug was an actual moth! 
+  Now we create digital ones instead. 🐛→🐞</em>
+</p>
+
+---
+
+<div align="center">
+  
+  ### 💻 **Current Status:** 
+  `git commit -m "Still figuring things out"`
+  
+  ### 🎨 **Creative Process:**
+  ```python
+  while True:
+      try:
+          code()
+      except Exception:
+          drink_white_monster()
+          google()
 <p align="left">
   <strong>Googling Errors:</strong> ██████████ 100% <br>
   <strong>Writing Code:</strong> ███████░░░ 70% <br>
