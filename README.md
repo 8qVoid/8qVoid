@@ -48,6 +48,22 @@
   <strong>Ducks Debugged:</strong> 🦆🦆🦆 <br>
 </p>
 
+<h3 align="left">🚨 Error Log</h3>
+<p align="left">
+  <code>ERROR: Brain.Not.Found</code><br>
+  <code>WARNING: Sarcasm levels critical</code><br>
+  <code>INFO: White Monster supply replenished</code><br>
+  <code>DEBUG: Why is this not working?</code><br>
+</p>
+
+<h3 align="left">🎯 Career Goals</h3>
+<p align="left">
+  • Become a 10x developer (currently at 0.5x) <br>
+  • Finally understand monads <br>
+  • Write code without Stack Overflow (impossible) <br>
+  • Center a div without crying <br>
+</p>
+
 <h3 align="left">🎮 Developer Console</h3>
 <p align="left">
   <code>> git status</code><br>
