@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">idk what I'm doin here</h3>
 
 - 🔭 I’m currently working on **personal website**
 
