@@ -11,6 +11,14 @@
   <i>Professional hermit mode: activated</i> 🏔️
 </p>
 
+<h3 align="left">🎧 Currently:</h3>
+<p align="left">
+  <strong>Listening to:</strong> The sound of my keyboard <br>
+  <strong>Drinking:</strong> Coffee ☕ (always) <br>
+  <strong>Debugging:</strong> My life choices <br>
+  <strong>Learning:</strong> How to center a div (still) <br>
+</p>
+
 <h3 align="left">🛠️ My Digital Toolbox:</h3>
 <p align="left">
   <!-- Languages -->
@@ -28,6 +36,14 @@
   <!-- Database & Tools -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="left">📊 Development Analytics</h3>
+<p align="left">
+  <strong>Code Quality:</strong> "It works on my machine" ✅ <br>
+  <strong>Bug Count:</strong> Yes <br>
+  <strong>Coffee Consumed:</strong> ∞ <br>
+  <strong>Ducks Debugged:</strong> 🦆🦆🦆 <br>
 </p>
 
 ---
