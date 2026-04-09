@@ -1,8 +1,9 @@
 <h1 align="center">👋 Hello World, I'm Mark!</h1>
-<h3 align="center">Professional bug creator & White Monster enthusiast ⚡</h3>
+<h3 align="center">Vibe coder, website/app builder, professional bug creator & White Monster enthusiast ⚡</h3>
 
-- 🚀 Currently building **the next big thing** (or at least trying to)
+- 🚀 Currently building **websites, apps, and whatever cool idea wins the vibe check**
 - 🎯 Mission: **Make computers do what I want** (most of the time)
+- 💻 I can build **websites/apps** and turn random ideas into real projects
 - 📫 How to reach me: **moosec06@gmail.com** (I promise I read these... eventually)
 - ⚡ Fun fact: **I speak fluent binary - 01001000 01101001 👋**
 
@@ -35,6 +36,7 @@
 
 <h3 align="left">💻 Projects & Experiments</h3>
 <p align="left">
+  • <strong>Websites & Apps:</strong> Built with vibes, caffeine, and trial-and-error <br>
   • <strong>Personal Website:</strong> Where I pretend I know what I'm doing <br>
   • <strong>Secret Projects:</strong> Classified (aka haven't started yet) <br>
   • <strong>Hello World:</strong> Perfected this one! ✅ <br>
