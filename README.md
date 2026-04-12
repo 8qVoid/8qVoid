@@ -8,6 +8,7 @@
 - ⚡ Fun fact: **I speak fluent binary - 01001000 01101001 👋**
 
 <h3 align="left">🌐 Connect with me:</h3>
+MY PORTFOLIO https://my-portfolio-livid-eight-62.vercel.app/
 <p align="left">
   <i>Professional hermit mode: activated</i> 🏔️
 </p>
