@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello World, I'm Mark!</h1>
 <h3 align="center">Vibe coder, website/app builder, professional bug creator & White Monster enthusiast ⚡</h3>
-MY PORTFOLIO https://my-portfolio-livid-eight-62.vercel.app/
+
 - 🚀 Currently building **websites, apps, and whatever cool idea wins the vibe check**
 - 🎯 Mission: **Make computers do what I want** (most of the time)
 - 💻 I can build **websites/apps** and turn random ideas into real projects
